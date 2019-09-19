@@ -1,5 +1,9 @@
-# Fully Responsive, Dynamic React.js App With CSS Animations
-
+# Class-Based React GitFinder
+## Designed to showcase the difference between class inheritance & concatenative inheritance in JavaScript
+<p>
+I purposely used class-based React components in this project to demonstrate some of the known problems with class inheritance in JavaScript. While quick to load and (to my knowledge) bug-free, this code is unnecessarily bloated due to the limitations of class inheritance.
+  
+In this repository <strong><a href="https://github.com/JordanWinslow/functional-react-github-user-finder">https://github.com/JordanWinslow/functional-react-github-user-finder</a></strong> I leverage the full power of JavaScript's multi-paradigm capabilities along with modern react hooks and context management to demonstrate how much cleaner, more readable and maintainable the code can get by adopting a modern approach to inheritance and combining the good features of classical OOP with FP!</p>
 ### Key features: 
 <ul>
   <li><strong>No Bootstrap, No Premade CSS.</strong> 100% From-Scratch CSS Leveraging the Power of the Styled-Components Library for Future-Proof, Maintainable Code
@@ -15,10 +19,6 @@
 <p>
 This project utilizes class-based React.js components with lifestyle methods, state management & higher order functions to dynamically render user profile information from the GitHub API onto a fully responsive CSS grid that is styled with styled-components and animated with CSS keyframes and modern transitional hover parameters.
 </p>
-<p>
-I purposely used class-based React components in this project to demonstrate some of the known problems with class inheritance in JavaScript. While quick to load and (to my knowledge) bug-free, this code is unnecessarily bloated due to the limitations of class inheritance.
-  
-In this repository <strong>(coming soon)</strong> I leverage the full power of JavaScript's multi-paradigm capabilities along with modern react hooks and context management to demonstrate how much cleaner, more readable and maintainable the code can get by adopting a modern approach to inheritance and combining the good features of classical OOP with FP!</p>
 
 # Screenshots
 
